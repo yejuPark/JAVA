@@ -1,3 +1,4 @@
+package p2;
 public class TypeCastingExam {
   public static void main(String[] args) {
     int x = 50000;
@@ -17,6 +18,6 @@ public class TypeCastingExam {
 
     System.out.println(y);
     System.out.println(y2);
-    
+
   }
 }

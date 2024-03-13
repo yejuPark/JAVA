@@ -1,3 +1,4 @@
+package p2;
 public class OperatorExam3 {
   /*연산자 우선순위
    * 최우선 연산자 : . [] ()

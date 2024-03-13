@@ -1,3 +1,4 @@
+package p1;
 public class HelloWorld {
   // 프로그램의 시작점
   // compiler : 작성한 코드를 실행가능한 파일로 변환

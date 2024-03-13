@@ -1,3 +1,4 @@
+package p2;
 public class PrimitiveDataTypeExam {
 
   public static void main(String[] args) {

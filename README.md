@@ -25,6 +25,20 @@
 1. 변수 : 값을 저장할 수 있는 메모리의 공간을 의미
 2. 상수 : 수식에서 변하지 않는 값
 3. 기본형 타입 및 타입변환
+
+| 자료형 | 키워드 | 크기 | 표현 범위 | 사용 예 |   
+|---|:---:|:---:|:---:|---|   
+'논리형' | boolean | 1byte | true or false(0과 1이 아님) | boolean isFun = true;   
+'문자형' | char | 2byte | 0~65535 | char c = 'f';   
+'정수형' | byte | 1byte | -128 ~ 127 | byte b = 89;   
+|| short | 2byte | -32768 ~ 32767 | short s = 32760;   
+|| char | 2byte | 0 ~ 65535 | char c = 64;   
+|| int | 4byte | -2147483648:2147483647 | int x = 59; int z = x;
+|| long | 8byte | ... | long big = 3456789L;   
+'실수형' | float | 4byte | -3.4E048 ~ 3.4E038 | float f = 32.5f;   
+|| double | 8byte | -1.7E308 ~ 1.7E308 | double d = 23.34;   
+
+
 4. 산술연산자
 5. 비교연산자
 6. 연산자우선순위

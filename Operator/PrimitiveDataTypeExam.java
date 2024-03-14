@@ -1,4 +1,4 @@
-package p2;
+package Operator;
 public class PrimitiveDataTypeExam {
 
   public static void main(String[] args) {

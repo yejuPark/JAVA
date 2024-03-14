@@ -1,4 +1,4 @@
-package p2;
+package Operator;
 public class VariableExam {
   public static void main(String[] args) {
     /* 변수의 선언

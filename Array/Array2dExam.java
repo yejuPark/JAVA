@@ -1,4 +1,4 @@
-package p4;
+package Array;
 
 public class Array2dExam {
   

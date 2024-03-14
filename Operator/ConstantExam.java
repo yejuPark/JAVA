@@ -1,4 +1,4 @@
-package p2;
+package Operator;
 public class ConstantExam {
   public static void main(String[] args) {
     /* 상수의 선언

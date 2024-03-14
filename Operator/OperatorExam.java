@@ -1,4 +1,4 @@
-package p2;
+package Operator;
 public class OperatorExam {
   public static void main(String[] args) {
     /* 연산자

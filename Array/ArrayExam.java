@@ -1,4 +1,4 @@
-package p4;
+package Array;
 public class ArrayExam {
   // 1차원 배열
   public static void main(String[] args) {

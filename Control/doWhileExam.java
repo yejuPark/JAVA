@@ -1,4 +1,4 @@
-package p3;
+package Control;
 import java.util.Scanner;
 
 public class doWhileExam {

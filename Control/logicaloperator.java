@@ -1,4 +1,4 @@
-package p3;
+package Control;
 
 public class logicaloperator {
   public static void main(String[] args) {

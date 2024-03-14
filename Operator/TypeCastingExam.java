@@ -1,4 +1,4 @@
-package p2;
+package Operator;
 public class TypeCastingExam {
   public static void main(String[] args) {
     int x = 50000;

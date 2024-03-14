@@ -1,4 +1,4 @@
-package p3;
+package Control;
 
 public class IfExam {
   public static void main(String[] args) {
